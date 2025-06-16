@@ -1,0 +1,25 @@
+.Select-arrow {
+    display: none !important;
+}
+.Select-placeholder {
+    color: white !important; /* Change text color if needed */
+    background-color: #111111 !important; /* Dark background */
+    padding: 4px;
+}
+
+/* Dropdown menu background */
+.Select-menu-outer {
+    background-color: #111111 !important;
+}
+
+/* Each option item in the dropdown menu */
+.Select-option {
+    background-color: #111111 !important;
+    color: white !important;
+}
+
+/* Optional: Hover effect for dropdown items */
+.Select-option:hover {
+    background-color: #333333 !important;
+}
+
